@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Phone body on its side -->
+    <path
+        android:fillColor="#2C2C2E"
+        android:pathData="M27,37h54a7,7 0,0 1,7 7v20a7,7 0,0 1,-7 7h-54a7,7 0,0 1,-7 -7v-20a7,7 0,0 1,7 -7z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M28,39.5h52a5,5 0,0 1,5 5v19a5,5 0,0 1,-5 5h-52a5,5 0,0 1,-5 -5v-19a5,5 0,0 1,5 -5z" />
+    <!-- Clock dial -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,54m-10.5,0a10.5,10.5 0,1 1,21 0a10.5,10.5 0,1 1,-21 0" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M40,54m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M40,54L40,47.5M40,54L44.5,56.5" />
+    <path
+        android:strokeColor="#FF9F0A"
+        android:strokeWidth="0.8"
+        android:strokeLineCap="round"
+        android:pathData="M40,56.5L40,45.5" />
+    <path
+        android:fillColor="#FF9F0A"
+        android:pathData="M40,54m-1.1,0a1.1,1.1 0,1 1,2.2 0a1.1,1.1 0,1 1,-2.2 0" />
+    <!-- Calendar -->
+    <path
+        android:fillColor="#FF453A"
+        android:pathData="M58,45h16v2.4h-16z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,50h2.6v2.2h-2.6zM62.4,50h2.6v2.2h-2.6zM66.8,50h2.6v2.2h-2.6zM71.2,50h2.6v2.2h-2.6zM58,54h2.6v2.2h-2.6zM62.4,54h2.6v2.2h-2.6zM71.2,54h2.6v2.2h-2.6zM58,58h2.6v2.2h-2.6zM62.4,58h2.6v2.2h-2.6zM66.8,58h2.6v2.2h-2.6zM71.2,58h2.6v2.2h-2.6z" />
+    <path
+        android:fillColor="#FF453A"
+        android:pathData="M68.1,55.1m-2.1,0a2.1,2.1 0,1 1,4.2 0a2.1,2.1 0,1 1,-4.2 0" />
+</vector>

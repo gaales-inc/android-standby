@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Standby</string>
+    <string name="channel_service">StandBy readiness</string>
+    <string name="channel_launch">Open StandBy</string>
+    <string name="notif_ready_title">StandBy is ready</string>
+    <string name="notif_ready_text">Charge your phone on its side to open StandBy.</string>
+    <string name="notif_launch_title">StandBy</string>
+    <string name="notif_launch_text">Tap to open StandBy</string>
+</resources>
